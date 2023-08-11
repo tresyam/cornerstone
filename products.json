@@ -1,0 +1,31 @@
+ =[
+    {
+        "id": 1,
+        "name": "Purse 1",
+        "price": 10.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4xy79tfl-936J451oSIqv2Tyld0qFl-2wttBgkg53oj4QiBPrKb-RndtYLqQsKluiog&usqp=CAU"    },
+    {
+        "id": 2,
+        "name": "Purse 2",
+        "price": 19.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJ5cf2fJB5iuI8APqr9AZCPUIS9ojbx4few&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Purse 3",
+        "price": 15.49,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QcQPcCnBZGnE5HIxGjrseUgx3sGNi6DALA&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Purse 4",
+        "price": 8.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagSxjwzaoBo0D1T5u56GFJTZOvC_PWiid7g&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Purse 5",
+        "price": 25.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GU4wuNlOGtTsuk_nskyCOSE3wE98wVViDQ&usqp=CAU"
+    }
+]
